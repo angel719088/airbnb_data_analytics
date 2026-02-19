@@ -1,0 +1,105 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# Python env files
+.env
+*.env
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Data, models and outputs (large files)
+data/
+datasets/
+raw_data/
+processed_data/
+*.h5
+*.hdf5
+*.tfrecord
+*.tfrecords
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+saved_models/
+models/
+weights/
+outputs/
+runs/
+tensorboard/
+
+# caches
+.cache/
+__pycache__/
+*.cache
+
+# Conda
+.conda/
+conda-meta/
+
+# Editor swap / backup files
+*~
+*.swp
+*.swo
+
+# Secrets
+secrets/
+credentials.json
+reviews.csv
+listings.csv
+
+git_commands.txt
