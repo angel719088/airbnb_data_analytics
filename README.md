@@ -1,5 +1,4 @@
 ﻿# airbnb_data_analytics
-# airbnb_data_analytics
 
 This project analyzes modified Airbnb data for Sydney, Australia, focusing on data cleaning, merging, exploratory data analysis (EDA), visualization, and business insights.
 The dataset includes Listings, Reviews, and Neighbourhood GeoJSON files, processed using Python.
